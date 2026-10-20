@@ -1,0 +1,4 @@
+version: "1.0.0"
+description: "Application event log + latching fault/alarm tracker (active/resolved x acked/unacked) for ESP-IDF"
+dependencies:
+  idf: ">=5.0.0"

@@ -1,0 +1,8 @@
+.pio
+.vscode
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+TODO_next_version.md
