@@ -1,7 +1,7 @@
 {
     "name": "AP_AlarmLog",
-    "version": "1.0.0",
-    "releaseDate": "2026-10-20",
+    "version": "1.0.1",
+    "releaseDate": "2026-10-30",
     "description": "Application event log + latching fault/alarm tracker for ESP-IDF - bounded log queue and up to 32 independently tracked faults with active/resolved x acked/unacked state, on/off-delay and a change callback. Thread-safe, no UI or transport knowledge - policy stays in the consuming project.",
     "keywords": ["log", "alarm", "fault", "event-log", "diagnostics", "esp-idf", "esp32", "freertos"],
     "authors": [

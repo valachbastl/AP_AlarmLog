@@ -66,7 +66,7 @@ Or with specific version:
 
 ```ini
 lib_deps =
-    https://github.com/valachbastl/AP_AlarmLog.git#v1.0.0
+    https://github.com/valachbastl/AP_AlarmLog.git#v1.0.1
 ```
 
 ### ESP-IDF

@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1] - 2026-10-30
+
+### Fixed
+- `CMakeLists.txt`: `REQUIRES` uváděl neexistující komponentu `esp_log` (komponenta
+  logu se v ESP-IDF jmenuje `log`) → čistý ESP-IDF build (`idf.py`) selhal při
+  konfiguraci na „Failed to resolve component“. Opraveno na `log`. Kód beze změny,
+  PlatformIO build se netýká.
+
 ## [1.0.0] - 2026-10-20
 
 ### Added
